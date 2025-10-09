@@ -92,7 +92,13 @@ Me chamo Ana Paula Garbin. Atualmente, estou cursando Ciência da Computação. 
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de Ana Garbin" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=9" alt="Tecnologias Mais Usadas" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de Ana Garbin" />
+    </td>
+    <td>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=9" alt="Tecnologias Mais Usadas" />
+    </td>
+  </tr>
+</table>
