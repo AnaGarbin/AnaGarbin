@@ -1,8 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=200&section=header&text=Ana+Paula+Garbin&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=200&section=header&text=Ana+Paula&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação+%F0%9F%92%BB;Analista+de+Dados+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=7AA2F7&vCenter=true&duration=3000&pause=2000&size=19" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Analista+de+Dados+%E2%98%95&font=Fira+Code&center=true&width=440&height=45&color=7AA2F7&vCenter=true&duration=3000&pause=2000&size=19" />
+  </a>
 </p>
 
 <div align="center">
@@ -60,7 +61,7 @@ Atualmente, estou **em busca ativa por uma oportunidade de estágio** para aplic
     <a href="https://github.com/AnaGarbin/aps-terceiro-semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AnaGarbin&repo=aps-terceiro-semestre&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false" alt="Aps_2_sem"></a>
     <a href="https://github.com/AnaGarbin/APS-quarto-semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AnaGarbin&repo=APS-quarto-semestre&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false" alt="Aps_4_sem"></a>
     <a href="https://github.com/AnaGarbin/estudos_python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AnaGarbin&repo=estudos_python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="EDD"></a>
-    <a href="https://github.com/AnaGarbin/EstruturaDados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AnaGarbin&EstruturaDados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="Calc-sis-num"></a>
+    <a href="https://github.com/AnaGarbin/EstruturaDados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AnaGarbin&repo=EstruturaDados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="EDD"></a>
     <a href="https://github.com/AnaGarbin/APS_primeiro_semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AnaGarbin&repo=APS_primeiro_semestre&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="Calc-bin"></a>
   </p>
 
