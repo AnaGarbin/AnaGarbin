@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-<p align="center">
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=en&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=9&locale=en&hide_border=true" />
-</p>
+  <p align="center">
+    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=en&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=6&locale=en&hide_border=true" />
+  </p>
 </div>
 
 ## 👨‍💻 Sobre Mim
