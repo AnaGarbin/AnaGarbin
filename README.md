@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=200&section=header&text=Ana+Paula&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=200&section=header&text=Ana+Paula+Garbin&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-  <p align="center">
-    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=en&hide_border=true" />
-    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=6&locale=en&hide_border=true" />
-  </p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=AnaGarbin&show_icons=true&theme=tokyonight&locale=en&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AnaGarbin&theme=tokyonight&layout=compact&langs_count=9&locale=en&hide_border=true" />
+</p>
 </div>
 
 ## 👨‍💻 Sobre Mim
